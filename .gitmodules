@@ -1,0 +1,15 @@
+[submodule "GhostNova-DOCS"]
+	path = GhostNova-DOCS
+	url = https://github.com/BarneyRye/GhostNova-DOCS.git
+[submodule "GhostNova-FC-FW"]
+	path = GhostNova-FC-FW
+	url = https://github.com/BarneyRye/GhostNova-FC-FW.git
+[submodule "GhostNova-FC-HW"]
+	path = GhostNova-FC-HW
+	url = https://github.com/BarneyRye/GhostNova-FC-HW.git
+[submodule "GhostNova-ESC-FW"]
+	path = GhostNova-ESC-FW
+	url = https://github.com/BarneyRye/GhostNova-ESC-FW.git
+[submodule "GhostNova-ESC-HW"]
+	path = GhostNova-ESC-HW
+	url = https://github.com/BarneyRye/GhostNova-ESC-HW.git
